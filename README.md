@@ -10,7 +10,7 @@ This project is part of the Ousean Data Analyst Bootcamp Batch 2 Final Project. 
   - Fix inconsistent writing (such as university names)
   - Reformat dates and other data
 
-- Analysis:**
+- **Analysis:**
   - Descriptive statistics with Pivot Table
   - Visualization using bar charts, pie charts, etc.
 
